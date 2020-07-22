@@ -42,3 +42,6 @@ SELECT name FROM world
     AND name LIKE '%o%'
     AND name LIKE '%u%'
     AND name NOT LIKE '% %'
+
+
+    
